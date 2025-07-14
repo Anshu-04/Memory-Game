@@ -25,10 +25,6 @@ npm run dev
 
 Visit: `http://localhost:5173`
 
-## 📸 Screenshots
-
-(Add screenshots here if needed)
-
 ## 👨‍💻 Author
 
 Made with ❤️ by Anshu Patel
